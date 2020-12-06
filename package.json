@@ -1,0 +1,11 @@
+{
+  "name": "tesla-vin-2020",
+  "version": "1.0.0",
+  "description": "Polls and notifies via SMS when a VIN has been assigned to your Tesla account.",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "twilio": "^3.53.0"
+  }
+}
